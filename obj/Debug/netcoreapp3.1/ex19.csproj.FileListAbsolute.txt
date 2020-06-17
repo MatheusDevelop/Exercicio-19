@@ -1,0 +1,13 @@
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex19\bin\Debug\netcoreapp3.1\ex19.exe
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex19\bin\Debug\netcoreapp3.1\ex19.deps.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex19\bin\Debug\netcoreapp3.1\ex19.runtimeconfig.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex19\bin\Debug\netcoreapp3.1\ex19.runtimeconfig.dev.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex19\bin\Debug\netcoreapp3.1\ex19.dll
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex19\bin\Debug\netcoreapp3.1\ex19.pdb
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex19\obj\Debug\netcoreapp3.1\ex19.csprojAssemblyReference.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex19\obj\Debug\netcoreapp3.1\ex19.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex19\obj\Debug\netcoreapp3.1\ex19.AssemblyInfo.cs
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex19\obj\Debug\netcoreapp3.1\ex19.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex19\obj\Debug\netcoreapp3.1\ex19.dll
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex19\obj\Debug\netcoreapp3.1\ex19.pdb
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex19\obj\Debug\netcoreapp3.1\ex19.genruntimeconfig.cache
